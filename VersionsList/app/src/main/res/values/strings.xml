@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VersionsList</string>
+    <string-array name="andVersionName">
+        <item>Plane</item>
+        <item>Train</item>
+        <item>Car</item>
+    </string-array>
+</resources>
