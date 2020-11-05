@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ListePizzas2</string>
+    <string name="margueriteText">Marguerite</string>
+    <string name="margueriteIngredientsText">tomate, cantal, origan, olives</string>
+    <string name="reineText">Reine</string>
+    <string name="reineIngredientsText">tomate, cantal, champignons, jambon, origan</string>
+    <string name="chorizoText">Chorizo</string>
+    <string name="chorizoIngredientsText">tomate, cantal, chorizo, origan</string>
+    <string name="fromagesText">8 Fromages</string>
+    <string name="fromagesIngredientsText">tomate, cantal, chévre, roquefort, mozzarella, origan</string>
+    <string name="sicilienneText">Sicilienne</string>
+    <string name="sicilienneIngredientsText">tomate, cantal, câpres, olives, anchois, origan</string>
+    <string name="calzoneText">Calzone</string>
+    <string name="calzoneIngredientsText">tomate, cantal, champignons, jambon, oeuf, origan</string>
+</resources>
